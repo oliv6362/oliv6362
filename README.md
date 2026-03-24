@@ -13,10 +13,10 @@ I am particularly interested in backend engineering, database design, and how la
 ## Tech Stack
 
 **Languages**  
-C# · JavaScript · TypeScript · Java · Python · SQL
+C# · Python · SQL
 
 **Backend & Frameworks**  
-.NET · EF Core · REST APIs · Node.js · Express.js · Spring Boot
+.NET · EF Core · REST APIs
 
 **Architecture & System Design**  
 Software Architecture · Clean Architecture · Domain-Driven Design · System Design · Microservices
