@@ -18,7 +18,7 @@ C# · Python · JavaScript
 **Backend & Frameworks**  
 .NET · EF Core · REST APIs
 
-**Databases**
+**Databases**  
 SQL · MongoDB · NoSQL
 
 **Architecture & System Design**  
