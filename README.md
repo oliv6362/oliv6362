@@ -13,13 +13,16 @@ I am particularly interested in backend engineering, database design, and how la
 ## Tech Stack
 
 **Languages**  
-C# · Python · SQL
+C# · Python · JavaScript
 
 **Backend & Frameworks**  
 .NET · EF Core · REST APIs
 
+**Databases**
+SQL · MongoDB · NoSQL
+
 **Architecture & System Design**  
 Software Architecture · Clean Architecture · Domain-Driven Design · System Design · Microservices
 
-**Areas of Interest**  
-Distributed Systems · Event-Driven Systems · Scalability · DevOps · Automation · Game Development
+## Areas of Interest  
+Distributed Systems · Event-Driven Systems · Scalability · Microservices · Machine learning · Automation · Game Development  · DevOps
